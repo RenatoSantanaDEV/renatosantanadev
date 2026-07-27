@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Renato Santana 👋</h1>
 
 <p align="left">
-  Junior Full-Stack Developer • Node.js/NestJS • React • TypeScript • AngularJs • AWS Recife, Brazil
+  Full-Stack Developer • Node.js/NestJS • React • TypeScript • AngularJs • AWS Recife, Brazil
 </p>
 
 <p align="left">
